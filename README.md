@@ -4,7 +4,7 @@ Branch      : CSE-Core
 Section     : NIAT(section-4)
 Titles of 10 selected case studies :
 
-Project	 Project Title	Original                   Case Study No.
+Project:	 Project Title	Original               : Case Study No.:
 1	       Advanced Numeric Pattern Generator	       Case 27      ,
 2	       Repeated Transaction Detection	           Case 28      ,
 3      	 Password Policy Validation Engine	       Case 29      ,
