@@ -3,6 +3,7 @@ Roll number : NRI(26000738), NIAT(N26V01A0302)
 Branch      : CSE-Core
 Section     : NIAT(section-4)
 Titles of 10 selected case studies :
+
 1. Advanced Numeric Pattern Generator
 2. Repeated Transaction Detection
 3. Password Policy Validation Engine
